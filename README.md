@@ -1,11 +1,11 @@
 # Olá, eu sou o Artur 👋
 
-Estudante de Engenharia de Software na UTFPR (Campus Cornélio Procópio), focado em back-end e sempre aprendendo algo novo no processo.
+Estudante de Engenharia de Software na UTFPR, focado em back-end e sempre aprendendo algo novo no processo.
 
 ## 🚀 Sobre mim
 
 - 🎓 Cursando Engenharia de Software na UTFPR
-- 💻 Trabalho principalmente com Java, explorando Spring Boot, Docker, PostgreSQL e TypeScript/Node.js
+- 💻 Trabalho principalmente com Java, explorando Spring Boot, Docker e PostgreSQL 
 - 📚 Gosto de entender o processo por trás da solução, não só entregar o resultado pronto
 - 🌱 Sempre estudando: estrutura de dados, engenharia de requisitos e boas práticas de back-end
 
@@ -18,13 +18,6 @@ Estudante de Engenharia de Software na UTFPR (Campus Cornélio Procópio), focad
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📌 Projetos em destaque
-
-<!-- Adicione aqui os projetos que quiser destacar, no formato abaixo -->
-
-- **[Nome do Projeto](link)** — breve descrição do que o projeto faz e quais tecnologias foram usadas.
-- **[Nome do Projeto](link)** — breve descrição do que o projeto faz e quais tecnologias foram usadas.
 
 ## 📊 Estatísticas do GitHub
 
