@@ -4,7 +4,7 @@
 
 ### Estudante de Engenharia de Software (UTFPR) • Back-end
 
-<img src="https://komarev.com/ghpvc/?username=bertoluciartur&label=Visualizações&color=0e75b6&style=flat" alt="visitor badge" />
+<img src="https://komarev.com/ghpvc/?username=bertoluciartur&label=Visualizações&color=0D1117&style=flat" alt="visitor badge" />
 
 </div>
 
