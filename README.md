@@ -1,32 +1,52 @@
+<div align="center">
+
 # Olá, eu sou o Artur 👋
 
-Estudante de Engenharia de Software na UTFPR, focado em back-end e sempre aprendendo algo novo no processo.
+### Estudante de Engenharia de Software (UTFPR) • Back-end
 
-## 🚀 Sobre mim
+<img src="https://komarev.com/ghpvc/?username=bertoluciartur&label=Visualizações&color=0e75b6&style=flat" alt="visitor badge" />
 
-- 🎓 Cursando Engenharia de Software na UTFPR
-- 💻 Trabalho principalmente com Java, explorando Spring Boot, Docker e PostgreSQL 
-- 📚 Gosto de entender o processo por trás da solução, não só entregar o resultado pronto
-- 🌱 Sempre estudando: estrutura de dados, engenharia de requisitos e boas práticas de back-end
-
-## 🛠️ Tecnologias e ferramentas
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bertoluciartur&show_icons=true&theme=default)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bertoluciartur&layout=compact)
-
-![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=bertoluciartur)
+</div>
 
 ---
 
+### 🚀 Sobre mim
+
+Gosto de entender **o porquê** por trás de uma solução, não só de fazer funcionar. Isso me puxou naturalmente pro back-end, onde arquitetura e dados importam mais que a tela bonita.
+
+- 🎓 Cursando Engenharia de Software na UTFPR
+- 💻 No dia a dia: Java, Spring Boot, PostgreSQL e Docker
+- 🔍 Curioso por natureza — prefiro debugar entendendo do que copiando solução pronta
+- 🌱 Agora estudando: estrutura de dados, engenharia de requisitos e boas práticas de back-end
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+[![Minhas tecnologias](https://skillicons.dev/icons?i=java,spring,postgres,docker,mysql,html,css,git&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=bertoluciartur&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true)
+
+![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=bertoluciartur&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true)
+
+![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=bertoluciartur&theme=dark&background=0D1117&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
 ⭐️ Fique à vontade para explorar meus repositórios!
+
+</div>
