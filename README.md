@@ -25,7 +25,7 @@ Gosto de entender **o porquê** por trás de uma solução, não só de fazer fu
 
 <div align="center">
 
-[![Minhas tecnologias](https://skillicons.dev/icons?i=java,spring,postgres,docker,mysql,html,css,git&theme=dark)](https://skillicons.dev)
+[![Minhas tecnologias](https://skillicons.dev/icons?i=java,spring,postgres,mysql,html,css,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
